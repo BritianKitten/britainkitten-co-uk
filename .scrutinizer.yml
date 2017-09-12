@@ -1,6 +1,6 @@
 filter:
   paths:
-      - src/
+      - app/
 
 before_commands:
   - 'composer install --no-interaction --prefer-source'
